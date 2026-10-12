@@ -1,1 +1,6 @@
 
+Created an IAM role named `EC2S3ReadRole` with EC2 as the trusted service and attached a customer-managed policy named `EC2S3ReadOnlyPolicy`.
+The policy allows listing the `tanvi-s3-bucket-2026` bucket and reading its objects only.
+without granting upload, overwrite, or delete permissions.
+No long-term access keys were created.
+
