@@ -1,1 +1,3 @@
-
+In this task i have created first two IAM user named as developer-user and tester-user 
+Then i created two groups named as developers and testers
+I added those user into the corresponding groups.
