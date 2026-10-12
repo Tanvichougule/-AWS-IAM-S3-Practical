@@ -1,1 +1,4 @@
-
+In this Task, i created one custom-based policy meaning- the user can craete its own policy and can attact to the user or to the group.
+The Policy i created was CustomS3ReadPolicy in which the user can just read the objects in the bucket, this The policy does not grant permission to upload, overwrite, or delete objects
+I edited the enitre JSON file, with ARN of the object and the bucket for which i was going to give permission.
+I attacted those policy to the user named test-user.
