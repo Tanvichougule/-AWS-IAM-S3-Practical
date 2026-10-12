@@ -1,1 +1,2 @@
-
+Verified the IAM permissions of developer-user by testing S3 bucket access. 
+Confirmed that the user can list and download permitted objects while upload and delete operations are denied.
