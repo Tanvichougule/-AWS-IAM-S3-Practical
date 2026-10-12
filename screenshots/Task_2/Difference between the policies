@@ -1,1 +1,7 @@
+The Difference Between AmazonS3RaedOnlyAccess and AmazonS3FullAccess is:
+A.AmazonS3FullAccess
+The user can create the bucket,User can delete the bucket, User can modify it. The user have full access.
+
+B.AmazonS3ReadOnlyAccess
+The user can just view the file and can list the file, can downlaod the file
 
